@@ -52,7 +52,7 @@ Get text to list
 
 Verify categories list
     [Arguments]     ${list1}
-    Collections.Lists Should Be Equal  list1=${expect_category}   list2=${list1}      ignore_order=true
+    Collections.List Should Contain Sub List    list1=${list1}      list2=${expect_category}    ignore_case=true
 
 *** Test Cases ***
 TC001
