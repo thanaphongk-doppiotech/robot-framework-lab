@@ -1,0 +1,2 @@
+'loc_add_to_cart':    '//form[@name="f_addcart"]/child::input[@type="submit"]'
+'loc_item_price':    '//div[@class="story"]/child::p[contains(., "price of this item")]'

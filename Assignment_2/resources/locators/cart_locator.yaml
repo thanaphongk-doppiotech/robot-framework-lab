@@ -1,0 +1,1 @@
+'loc_total_price':    '//div[@class="story"]/child::h3[contains(., "Total:")]'

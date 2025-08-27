@@ -1,0 +1,5 @@
+'testing_url':    'http://testphp.vulnweb.com/login.php'
+'test_browser':   'gc'
+
+'default_timeout':    '5'
+'replace_text':       '[replace_me]'

@@ -1,0 +1,7 @@
+'loc_menu_category':  '//div[@id="sectionLinks"]/descendant::a[@href="categories.php"]'
+
+'loc_item_category_replacable':   '//div[@id="content"]/descendant::a/child::h3[normalize-space(.)="[replace_me]"]'
+
+'loc_item_artist_replacable':   '//div[@id="content"]/descendant::a/child::h3[normalize-space(.)="[replace_me]"]'
+
+'loc_artist_of_picture':   '//h3[normalize-space(.)="[replace_me]"]/parent::a/following-sibling::p[starts-with(normalize-space(.), "painted by:")]/child::a'

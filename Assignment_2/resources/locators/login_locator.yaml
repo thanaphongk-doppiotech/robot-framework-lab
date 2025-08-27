@@ -1,0 +1,3 @@
+'loc_ip_uname':      'name=uname'
+'loc_ip_pass':        'name=pass'
+'loc_btn_login':      '//input[@value="login"]'
