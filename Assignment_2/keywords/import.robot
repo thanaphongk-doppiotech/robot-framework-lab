@@ -20,7 +20,7 @@ Resource    ./features/product_list_feature.robot
 
 # Locator
 Variables   ../resources/locators/login_locator.yaml
-Variables   ../resources/locators/web_locator.yaml
+Variables   ../resources/locators/web_content_locator.yaml
 Variables   ../resources/locators/product_detail_locator.yaml
 Variables   ../resources/locators/cart_locator.yaml
 
