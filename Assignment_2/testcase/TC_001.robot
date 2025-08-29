@@ -27,12 +27,11 @@ Test Teardown   common.Test Teardown
 TC_001
     login_feature.Login as test user  ${test_user}  ${test_pwd}
 
-    browse_category_feature.Browse and click category   ${lbl_posters}
+    categories_feature.Browse and click category   ${lbl_posters}
 
-
-    browse_category_page.Scroll to artist of picture  ${lbl_trees}
-    browse_category_feature.Verify artist of picture  ${lbl_blad3}      ${lbl_trees}
-    browse_category_page.Click item on content  ${lbl_trees}
+    product_list_page.Scroll to artist of picture  ${lbl_trees}
+    product_list_feature.Verify artist of picture  ${lbl_blad3}      ${lbl_trees}
+    category_list_page.Click item on content  ${lbl_trees}
 
 
     product_detail_page.Scroll to add to cart button
