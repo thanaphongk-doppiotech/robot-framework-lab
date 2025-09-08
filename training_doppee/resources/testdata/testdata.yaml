@@ -1,0 +1,26 @@
+'lbl_doppee_phone':   'Doppee phone'
+'lbl_phone':    'phone'
+'lbl_aoppee_phone':    'Aoppee phone'
+
+
+
+
+'doppio_user':   'gengi@doppio.com'
+'doppio_pwd':   'Doppio123*'
+
+
+
+# delivery info
+'lbl_name':   'geng'
+'lbl_surname':   'kab'
+'lbl_address':   '123/456 L building'
+'lbl_phonenumber':   '0851005009'
+'lbl_email':   'gengi@doppio.com'
+
+
+
+# payment info
+'lbl_payment_card_pan':   '4111111111111111'
+'lbl_payment_exp_date':   '12/2030'
+'lbl_payment_cv_code':   '123'
+'lbl_payment_card_owner':   'Doppio tech'

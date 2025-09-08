@@ -1,0 +1,8 @@
+'input_username':   '//label[@title="Username"]/ancestor::div[@class="ant-row ant-form-row css-eq3tly"]/descendant::input[@class="ant-input css-eq3tly"]'
+'input_password':   '//input[@type="password"]'
+
+'btn_login':   '//span[text()="Login"]/parent::button[@type="submit"]'
+
+'dialog_title_popup':    '//span[@class="ant-modal-confirm-title"]'
+'dialog_msg_popup':   '//span[@class="ant-modal-confirm-title"]/following-sibling::div[@class="ant-modal-confirm-content"]'
+'btn_ok':   '//span[text()="OK"]/parent::button[@type="button"]'

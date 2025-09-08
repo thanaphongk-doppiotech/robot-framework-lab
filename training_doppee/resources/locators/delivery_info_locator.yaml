@@ -1,0 +1,7 @@
+'loc_deli_info_name':   '//input[@id="form_item_name"]'
+'loc_deli_info_surname':   '//input[@id="form_item_surName"]'
+'loc_deli_info_address':   '//input[@id="form_item_address"]'
+'loc_deli_info_phone':   '//input[@id="form_item_phone"]'
+'loc_deli_info_email':   '//input[@id="form_item_email"]'
+
+'btn_pay':    '//span[text()="PAY"]/parent::button'

@@ -1,0 +1,16 @@
+'doppee_training_url':    'https://training-platform.doppio-tech.com/'
+
+'test_browser':   'gc'
+
+'replace_text':   '[replace_me]'
+'div_text_equal':   '//div[text()="[replace_me]"]'
+
+'alert_javascript':   '
+                    function myFunction() {
+                        alert("I got click");
+                    }
+                '
+
+'default_timeout':      '10'
+
+'payment_dialog_success_msg':   'Payment successfully'

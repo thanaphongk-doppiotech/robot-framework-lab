@@ -1,0 +1,9 @@
+'btn_add_to_card':    '//span[text()="Add to cart"]/parent::button'
+'btn_add_to_cart_ok':   '//span[text()="OK"]/parent::button[@type="button"]'
+'popup_title_add_to_card_loc':   '//span[text()="Product detail page"]'
+
+'popup_msg_loc':    '//span[text()="Product detail page"]/following-sibling::div'
+
+
+'loc_product_info':   '//div[@class="detail-content"]/child::p'
+'loc_product_price':    '//div[@class="price-group"]/child::p'

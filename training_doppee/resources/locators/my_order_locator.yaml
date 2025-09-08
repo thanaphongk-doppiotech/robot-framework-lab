@@ -1,0 +1,5 @@
+'loc_header_my_order':    '//div[text()="My Order"]'
+'loc_tab_pending_payment':  '//div[text()="Pending payment"]'
+'loc_tab_preparing':  '//div[text()="Preparing"]'
+
+'loc_td_order_id':   '//td[contains(text(), "[replace_me]")]'

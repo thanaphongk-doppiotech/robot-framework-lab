@@ -1,0 +1,22 @@
+# header
+'icon_login':    '//h2[text()="Doppee"]/ancestor::div[@class="portion-header"]/child::div[@class="icon-portion"]/descendant::span[@aria-label="user"]'
+'icon_cart':   '//h2[text()="Doppee"]/ancestor::div[@class="portion-header"]/child::div[@class="icon-portion"]/descendant::span[@aria-label="shopping-cart"]'
+
+
+
+'txt_search':   '//input[@placeholder="input search text"]'
+
+'btn_search':   '//span[@aria-label="search"]/parent::button'
+
+'div_doppee_phone':   '//div[text()="Doppee phone"]'
+'div_doppee_phone_detail':    '//div[text()="Doppee phone"]/following-sibling::div'
+'div_doppee_phone_price':   '//div[text()="Doppee phone"]/ancestor::div[@class="ant-card-meta"]/following-sibling::div[@class="info-container"]/child::span[@class="price-info"]'
+
+
+'div_product_detail':    '//div[text()="[replace_me]"]/following-sibling::div'
+'div_price':   '//div[text()="[replace_me]"]/ancestor::div[@class="ant-card-meta"]/following-sibling::div[@class="info-container"]/child::span[@class="price-info"]'
+
+
+'loc_aoppee_phone':   '//div[text()="Aoppee phone"]'
+
+

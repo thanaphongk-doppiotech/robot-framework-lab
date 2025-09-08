@@ -1,0 +1,4 @@
+'loc_qr_code':    '//input[@value="creditCard"]/ancestor::label[@class="ant-radio-wrapper ant-radio-wrapper-checked css-eq3tly"]'
+'btn_payment_next':   '//span[text()="Next"]/parent::button'
+
+'payment_dialog_msg':  '//span[text()="Payment page"]/following-sibling::div[@class="ant-modal-confirm-content"]'

@@ -1,0 +1,14 @@
+'loc_card_pan':   '//input[@id="basic_bin"]'
+'loc_card_exp':   '//input[@id="basic_exp"]'
+'loc_card_cvc':   '//input[@id="basic_cvc"]'
+'loc_card_owner':   '//input[@id="basic_owner"]'
+
+'loc_cf_btn':   '//span[text()="Confirm Payment"]/parent::button'
+
+'loc_paymet_result_dialog':    '//span[text()="Payment page"]/following-sibling::div[@class="ant-modal-confirm-content"]'
+'loc_payment_result_btn':   '//span[text()="OK"]/parent::button'
+
+
+'div_payment_info':   '//div[contains(text(),"ORDER ID: ")]'
+
+
